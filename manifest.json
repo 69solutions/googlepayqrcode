@@ -1,6 +1,6 @@
 {
   "name": "Google Pay QR",
-  "short_name": "googlepayqr",
+  "short_name": "Google Pay QR",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#073042",
@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVO9LUWF81Ov6LZR50eDNu5rNFCpkn0LwYQ&s",
+      "src": "https://i.ibb.co/7xNmjgXd/googlepayicon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVO9LUWF81Ov6LZR50eDNu5rNFCpkn0LwYQ&s",
+      "src": "https://i.ibb.co/7xNmjgXd/googlepayicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
